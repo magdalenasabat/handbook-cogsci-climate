@@ -4,10 +4,11 @@ project:
 
 book:
   title: "Handbook of Cognitive Science of Climate Change"
-  author: "Your Name"
+  author: "Magdalena Sabat"
   date: today
   search: true
   page-navigation: true
+  downloads: [pdf, epub]
 
   page-footer:
     left: "© 2026 Magdalena Sabat"
