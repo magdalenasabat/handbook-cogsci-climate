@@ -8,6 +8,7 @@ language:
 
 book:
   title: "Handbook of Cognitive Science of Climate Change"
+  subtitle: "Structural, Social, and Individual factors that shape Human Behavior"
   author: "Magdalena Sabat"
   date: today
   search: true
@@ -55,7 +56,7 @@ format:
     mainfont: "Open Sans"       # ← body text
     sansfont: "Open Sans"       # ← headings (KOMA uses sans-serif for those)
     monofont: "Open Sans"
-    
+
   epub:
     toc: true
     number-sections: true
