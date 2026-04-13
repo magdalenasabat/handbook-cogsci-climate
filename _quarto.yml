@@ -2,6 +2,10 @@ project:
   type: book
   output-dir: _book
 
+language:
+  title-block-author-single: "Edited by"
+  title-block-author-plural: "Edited by"
+
 book:
   title: "Handbook of Cognitive Science of Climate Change"
   author: "Magdalena Sabat"
@@ -17,6 +21,7 @@ book:
         href: https://github.com/magdalenasabat/your-repo
 
   chapters:
+    - contributors.qmd
     - index.qmd
 
     - part: "Introduction"

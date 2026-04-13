@@ -1,0 +1,10 @@
+# Contributors {.unnumbered}
+
+The editors thank the following contributors for their chapters 
+and expertise.
+
+| Name | Affiliation | Chapter |
+|------|-------------|---------|
+| Jane Smith | University of Copenhagen | Chapter 1 |
+| John Doe | MIT | Chapter 2 |
+| Anna Müller | Max Planck Institute | Chapter 3 |
