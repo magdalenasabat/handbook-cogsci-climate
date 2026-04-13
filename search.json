@@ -20,6 +20,16 @@
     ]
   },
   {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
+    "section": "",
+    "text": "The editors thank the following contributors for their chapters and expertise.\n\n\n\nName\nAffiliation\nChapter\n\n\n\n\nJane Smith\nUniversity of Copenhagen\nChapter 1\n\n\nJohn Doe\nMIT\nChapter 2\n\n\nAnna Müller\nMax Planck Institute\nChapter 3",
+    "crumbs": [
+      "Contributors"
+    ]
+  },
+  {
     "objectID": "chapters/intro.html",
     "href": "chapters/intro.html",
     "title": "1  Introduction",
