@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Handbook of Cognitive Science of Climate Change",
+    "section": "",
+    "text": "Preface\nThis handbook brings together research from cognitive science, psychology, and climate communication to understand how people perceive, reason about, and respond to climate change.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-book",
+    "href": "index.html#how-to-use-this-book",
+    "title": "Handbook of Cognitive Science of Climate Change",
+    "section": "How to Use This Book",
+    "text": "How to Use This Book\nEach chapter can be read independently, or read sequentially for a full overview of the field.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "chapters/intro.html",
+    "href": "chapters/intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Background\nAn overview of cognitive science approaches to climate change.\nWhy the cognitive dimension of climate change matters.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/intro.html#scope-of-this-handbook",
+    "href": "chapters/intro.html#scope-of-this-handbook",
+    "title": "1  Introduction",
+    "section": "1.2 Scope of This Handbook",
+    "text": "1.2 Scope of This Handbook\nWhat this book covers and what it leaves out.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/ch01-chapter-one.html",
+    "href": "chapters/ch01-chapter-one.html",
+    "title": "2  Chapter One Title",
+    "section": "",
+    "text": "2.1 Section 1.1\nYour chapter content here.\nContent.",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter One Title</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/ch01-chapter-one.html#section-1.2",
+    "href": "chapters/ch01-chapter-one.html#section-1.2",
+    "title": "2  Chapter One Title",
+    "section": "2.2 Section 1.2",
+    "text": "2.2 Section 1.2\nContent.",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter One Title</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/ch01-resources.html",
+    "href": "chapters/ch01-resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Further Reading\nKey resources related to Chapter 1.",
+    "crumbs": [
+      "Chapters",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "chapters/ch01-resources.html#further-reading",
+    "href": "chapters/ch01-resources.html#further-reading",
+    "title": "Resources",
+    "section": "",
+    "text": "Book or article 1\nBook or article 2",
+    "crumbs": [
+      "Chapters",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "chapters/ch01-resources.html#datasets-and-tools",
+    "href": "chapters/ch01-resources.html#datasets-and-tools",
+    "title": "Resources",
+    "section": "Datasets and Tools",
+    "text": "Datasets and Tools\nLinks to relevant datasets or tools.",
+    "crumbs": [
+      "Chapters",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "chapters/ch02-chapter-two.html",
+    "href": "chapters/ch02-chapter-two.html",
+    "title": "3  Chapter Two Title",
+    "section": "",
+    "text": "Your chapter content here.",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Chapter Two Title</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/ch03-chapter-three.html",
+    "href": "chapters/ch03-chapter-three.html",
+    "title": "4  Chapter Three Title",
+    "section": "",
+    "text": "Your chapter content here.",
+    "crumbs": [
+      "Chapters",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Chapter Three Title</span>"
+    ]
+  }
+]
