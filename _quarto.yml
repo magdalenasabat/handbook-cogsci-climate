@@ -1,0 +1,54 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Handbook of Cognitive Science of Climate Change"
+  author: "Your Name"
+  date: today
+  search: true
+  page-navigation: true
+
+  page-footer:
+    left: "© 2026 Magdalena Sabat"
+    right:
+      - icon: github
+        href: https://github.com/magdalenasabat/your-repo
+
+  chapters:
+    - index.qmd
+
+    - part: "Introduction"
+      chapters:
+        - chapters/intro.qmd
+
+    - part: "Chapters"
+      chapters:
+        - chapters/ch01-chapter-one.qmd
+        - chapters/ch01-resources.qmd
+        - chapters/ch02-chapter-two.qmd
+        - chapters/ch03-chapter-three.qmd
+
+    - references.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+  pdf:
+    documentclass: scrbook
+    papersize: a4
+    toc: true
+    number-sections: true
+    colorlinks: true
+
+  epub:
+    toc: true
+    number-sections: true
+
+bibliography: references.bib

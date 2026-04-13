@@ -1,0 +1,10 @@
+# Preface {.unnumbered}
+
+This handbook brings together research from cognitive science, 
+psychology, and climate communication to understand how people 
+perceive, reason about, and respond to climate change.
+
+## How to Use This Book
+
+Each chapter can be read independently, or read sequentially 
+for a full overview of the field.

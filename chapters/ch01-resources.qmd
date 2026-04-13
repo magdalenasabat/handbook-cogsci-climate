@@ -1,0 +1,12 @@
+# Resources {.unnumbered}
+
+Key resources related to Chapter 1.
+
+## Further Reading
+
+- Book or article 1
+- Book or article 2
+
+## Datasets and Tools
+
+Links to relevant datasets or tools.
