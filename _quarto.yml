@@ -52,6 +52,8 @@ format:
     toc: true
     number-sections: true
     colorlinks: true
+    mainfont: "Open Sans"       # ← body text
+    sansfont: "Open Sans"       # ← headings (KOMA uses sans-serif for those)
 
   epub:
     toc: true
